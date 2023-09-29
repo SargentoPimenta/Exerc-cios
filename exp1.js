@@ -10,7 +10,7 @@ function contarMaioresDe18(listaDePessoas) {
     });
   }
   
-  // Exemplo de uso da função com uma lista de pessoas
+
   const listaDePessoas = [
     { nome: 'João', idade: 25 },
     { nome: 'Maria', idade: 17 },
